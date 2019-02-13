@@ -12,7 +12,7 @@ import com.apkglobal.dailynews.Remote.RetrofitClient;
 public class Common {
     private static final String BASE_URL="https://newsapi.org/";
 
-    public  static final String API_KEY="75715332a8f54cd0aa5565b783cb5324";
+    public  static final String API_KEY="your secret api key";
 
     public static NewsService getNewsService()
     {
